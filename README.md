@@ -1,4 +1,8 @@
-### Hi there 👋
+# Nicholas Brandão
+
+I'm starting my career at software developer, focusing on development of websites and games. Currently, i have using and upgrading my skills on JavaScript (React), Python(Flask, Django), C# and GO.
+Contact me:
+
 
 <!--
 **NichoBrando/NichoBrando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
