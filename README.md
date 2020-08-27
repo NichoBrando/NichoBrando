@@ -18,5 +18,6 @@ Languages:
 Frameworks and technologies:
 * Flask/Django, SQLAlchemy (Python);
 * NodeJS, Express, ReactJS, ChartJS (JavaScript);
+* Azure
 
 If you want to contact me, [click here](https://www.linkedin.com/in/nicholas-brandao-developer)
