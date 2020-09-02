@@ -8,16 +8,17 @@ Currently working on GoGerency, which helps to manage your spents, and receive d
 
 Languages:
 * Python;
-* JavaScript
-* C, C++/C#
-* Java
-* GoLang
-* SQL
-* HTML, CSS
+* JavaScript;
+* C, C++/C#;
+* Java;
+* GoLang;
+* SQL and NoSQL (learning);
+* HTML, CSS;
 
 Frameworks and technologies:
 * Flask/Django, SQLAlchemy (Python);
-* NodeJS, Express, ReactJS, ChartJS (JavaScript);
-* Azure
+* NodeJS, Express, ReactJS, ChartJS, React Native and Angular(learning) (JavaScript);
+* Bootstrap, Reactstrap and Materialize (Learning);
+* Azure, AWS (Learning);
 
 If you want to contact me, [click here](https://www.linkedin.com/in/nicholas-brandao-developer)
