@@ -16,9 +16,9 @@ Languages:
 * HTML, CSS;
 
 Frameworks and technologies:
-* Flask/Django, SQLAlchemy (Python);
-* NodeJS, Express, ReactJS, ChartJS, React Native and Angular(learning) (JavaScript);
-* Bootstrap, Reactstrap and Materialize (Learning);
-* Azure, AWS (Learning);
+* Flask/Django (Learning about Django and Rest Framework), SQLAlchemy (Python);
+* NodeJS, Express, ReactJS, React Native and Angular(learning) (JavaScript);
+* Bootstrap, Reactstrap and Materialize(To Learn);
+* Azure, AWS (To learn);
 
 If you want to contact me, [click here](https://www.linkedin.com/in/nicholas-brandao-developer)
