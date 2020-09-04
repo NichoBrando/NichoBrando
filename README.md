@@ -9,7 +9,7 @@ Currently working on GoGerency, which helps to manage your spents, and receive d
 Languages:
 * Python;
 * JavaScript;
-* C, C++/C#;
+* C, C++/C# (to develop games);
 * Java;
 * GoLang;
 * SQL and NoSQL (learning);
