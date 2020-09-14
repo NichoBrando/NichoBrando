@@ -12,12 +12,12 @@ Languages:
 * C, C++/C# (to develop games);
 * Java;
 * GoLang;
-* SQL and NoSQL (learning);
+* SQL and NoSQL;
 * HTML, CSS;
 
 Frameworks and technologies:
 * Flask/Django (Learning about Django and Rest Framework), SQLAlchemy (Python);
-* NodeJS, Express, ReactJS, React Native and Angular(learning) (JavaScript);
+* NodeJS, Express, ReactJS, React Native, NextJS and Mongoose (JavaScript);
 * Bootstrap, Reactstrap, Materialize (Learning);
 * Azure, AWS (To learn);
 
