@@ -1,24 +1,7 @@
 # Nicholas Brandão
 
-I'm starting my career at software developer, working and learning the most diverse areas, such as mobile, web and game development.
-Currently working on GoGerency, which helps to manage your spents, and receive details about your spents and how you usually spend.
+Junior software developer and Lover of technology and studies.
 
-## Knowledges
+Actually improving my knowledges on Python, JS and Automated Tests.
 
-
-Languages:
-* Python;
-* JavaScript;
-* C, C++/C# (to develop games);
-* Java;
-* GoLang;
-* SQL and NoSQL;
-* HTML, CSS;
-
-Frameworks and technologies:
-* Flask/Django (Learning about Django and Rest Framework), SQLAlchemy (Python);
-* NodeJS, Express, ReactJS, React Native, NextJS and Mongoose (JavaScript);
-* Bootstrap, Reactstrap, Materialize (Learning);
-* Azure, AWS (To learn);
-
-If you want to contact me, [click here](https://www.linkedin.com/in/nicholas-brandao-developer)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-brandao-developer/)](https://www.linkedin.com/in/nicholas-brandao-developer/)
