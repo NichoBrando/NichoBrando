@@ -1,4 +1,4 @@
-# Nicholas Brandão
+# Nicholas Brando
 
 Junior software developer and lover of technology and studies.
 
