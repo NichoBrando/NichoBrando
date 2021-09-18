@@ -1,6 +1,6 @@
 # Nicholas Brando
 
-Junior software developer and lover of technology and studies.
+Junior software developer and lover of technology and studies. Passionated about server applications game development, mainly on RPG and VR development.
 
 ![NichoBrando](https://github-readme-stats.vercel.app/api/top-langs/?username=NichoBrando&layout=compact&theme=dracula)
 
