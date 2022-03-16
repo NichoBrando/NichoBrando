@@ -1,7 +1,7 @@
 # Nicholas Brando
 
 - Software Developer
-- Interested about Math, GameDev, XR, Cloud, Blockchain and other technologies.
+- Currently learning DevOps and Game Dev stuff
 
 ![NichoBrando](https://github-readme-stats.vercel.app/api/top-langs/?username=NichoBrando&layout=compact&theme=dracula)
 
