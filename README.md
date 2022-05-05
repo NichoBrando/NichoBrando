@@ -1,7 +1,7 @@
 # Nicholas Brando
 
 - Software Developer
-- Currently learning DevOps and Game Dev stuff
+- Currently learning Game Dev technologies and Rust
 - Most used technologies: MongoDB, Node.js, ReactJS, C# and Unity3D
 
 ![NichoBrando](https://github-readme-stats.vercel.app/api/top-langs/?username=NichoBrando&layout=compact&theme=dracula)
