@@ -12,7 +12,7 @@
 <br />
   I'm a Full Stack Developer with 3 years of experience.
   <br />
-  My main focus on my studies are back-end solutions and DevOps, mainly for Game Development and highly available applications.
+  My main focus on my studies are back-end solutions and DevOps, mainly for Game Development and Web Apps
 <br />
 <br />
 <img 
