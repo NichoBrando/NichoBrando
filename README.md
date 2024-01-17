@@ -10,9 +10,9 @@
 </a>
 <br />
 <br />
-  I'm a Full Stack Developer with 3 years of experience.
+  I'm a Software Engineer with 3 years of experience.
   <br />
-  My main focus on my studies are back-end solutions and DevOps, mainly for Game Development and Web Apps
+  My main focus and interest are related to the back-end and game development area.
 <br />
 <br />
 <img 
